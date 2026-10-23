@@ -164,3 +164,4 @@ no fim", e a sessão nunca morre sem essa oferta. Não oferecer em sessão trivi
 - `.ratosos` · a versão do kit (uma linha). Não apague: é como a atualização sabe de onde você parte
 <!-- pastas de trabalho abaixo, criadas pelo /setup conforme o negócio -->
 - `projetos/acre-rio-pro/` · MVP do clube e da curadoria digital para arquitetos
+- `projetos/carreira-internacional/` · currículo, portfólio técnico e oportunidades internacionais de Thiago Simões

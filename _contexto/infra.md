@@ -8,3 +8,4 @@
 | Google Maps | Google | Acre Rio - Soluções em Móveis, Cabo Frio | Público; gestão a confirmar | 4,7 em 256 avaliações em 2026-10-06 |
 | WhatsApp comercial | Meta | Link na bio do Instagram | Público; gestão a confirmar | Pedidos e orçamentos |
 | MVP Acre Rio Pro | Cloudflare Pages | https://acre-rio-pro.pages.dev/ | Thiago pela conta visualizett@gmail.com | Site estático público; projeto `acre-rio-pro`; sem backend ou dados pessoais |
+| Código-fonte do sistema | GitHub | https://github.com/thiago-simoes-ai/acre-rio | Thiago pela conta `thiago-simoes-ai` | Repositório privado; branch principal `main` |

@@ -17,3 +17,6 @@ regra de trabalho. O que não entra: tarefa feita (isso é o diário).
 ---
 
 <!-- as decisões entram abaixo, a mais nova por último -->
+
+- **DEC-20261023-001 · 2026-10-23** (Thiago, registrado por Codex) [carreira-internacional]: manter currículo, portfólio e candidaturas em pasta própria dentro de projetos. Por quê: continuar o trabalho entre sessões sem misturar a trajetória pessoal com o MVP Acre Rio.
+- **DEC-20261023-002 · 2026-10-23** (Thiago, registrado por Codex) [carreira-internacional]: adiar publicação de portfólio e pedido de críticas; preparar outro post técnico para LinkedIn. Por quê: Thiago ainda está definindo a seleção e apresentação do material técnico.

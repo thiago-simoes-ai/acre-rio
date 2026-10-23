@@ -3,7 +3,7 @@
 
 ## Onde paramos
 
-Sistema configurado como demo da Acre Rio em 2026-10-06. MVP Acre Rio Pro criado em `projetos/acre-rio-pro/`, testado e publicado em https://acre-rio-pro.pages.dev/.
+Em 2026-10-23, foi criada a pasta `projetos/carreira-internacional/` para currículo, portfólio e oportunidades remotas de Thiago. Currículo em inglês entregue; próximo passo e pendências em `andamento.md` da pasta. O MVP Acre Rio Pro continua publicado em https://acre-rio-pro.pages.dev/.
 
 ## Pendências
 
@@ -12,4 +12,5 @@ Sistema configurado como demo da Acre Rio em 2026-10-06. MVP Acre Rio Pro criado
 
 ## Quente agora
 
-- Enviar a demonstração a Pedro e João e marcar uma conversa aberta.
+- Carreira internacional: aguardar retorno de Michael e preparar seleção técnica para portfólio. Post de portfólio adiado; rascunho alternativo em revisão na pasta do projeto.
+- Acre Rio: enviar a demonstração a Pedro e João e marcar uma conversa aberta.

@@ -8,6 +8,7 @@
 | Google Maps | Presença local e avaliações | Web pública | não ligada | 2026-10-06 |
 | Site | Página institucional | Web pública | ligada para leitura | 2026-10-06 |
 | Cloudflare Pages | Hospedar o MVP | Wrangler autenticado por OAuth na conta de Thiago | ligada | 2026-10-06 |
+| Git/GitHub | Versionamento e backup do sistema | Git local conectado ao repositório privado | ligada | 2026-10-07 |
 
 ## Os sete assuntos que todo negócio tem
 
